@@ -1,0 +1,244 @@
+body{
+    background-color: #f9f4ec;
+}
+
+a{
+    text-decoration: none;
+}
+li{
+    list-style: none;
+}
+.firstNav-icons{
+    color: #fd8c4e;
+    font-size: 18px;
+    text-align: center;
+}
+.firstNav-icon2{
+    color:#9b9b9b;
+    font-size: 20px;
+}
+.firstNav-icon2:hover{
+    color: #fd8c4e;
+}
+.second-nav{
+    background-color: #f9f4ec;
+}
+.secondNav-logo{
+    color: #fd8c4e;
+}
+.dropdown-menu{
+    background-color: #f9f4ec ;
+    border: 0;
+    border-radius: 10px;
+}
+.dropdown-item:hover{
+    background-color: #dee2e6;
+}
+.dropdown-item{
+    color: #9b9b9b;
+    text-transform: uppercase;
+    padding-top: 15px;
+    padding-bottom: 10px;
+    transition: background-color .5s;
+}
+.dropdown-button{
+    border: 0;
+    color: white;
+    border-radius: 10px;
+    font-weight: bold;
+    margin: 0px 2px;
+}
+.tabs{
+    color: black;
+}
+.tabs:hover{
+    color: #fd8c4e;
+}
+.buttons{
+    color: #fd8c4e;
+    border-radius: 25px;
+    border:1px solid #fd8c4e;
+    transition: all .8s;
+}
+.buttons:hover{
+    background-color: #fd8c4e;
+    color: white;
+    border: 0;
+}
+
+
+.carousel-text{
+    padding: 10% 12% 0%;
+}
+
+
+
+.sec2-num{
+    color: #fd8c4e;
+    text-align: center;
+
+}
+
+.about-btn{
+    color: white;
+    background-color: #fd8c4e;
+    border-radius: 25px;
+    border:0;
+    transition: all .8s;
+    margin: 5px;
+    padding: 10px 30px;
+    font-size: 15px;
+}
+.about-btn:hover{
+    background-color: #f37735;
+}
+.sec3-heading{
+    font-size: 50px;
+    font-family: fangsong;
+    
+    align-items: start;
+}
+.sec3-text{
+    color: #9b9b9b;
+    padding-top: 8px;
+}
+.sec4-link{
+    color: white;
+    text-decoration: underline;
+    text-transform: uppercase;
+    font-weight: bold;
+
+}
+.cards{
+    background-color: #f37735;
+    transition: all .5s;
+}
+.image{
+    transition: all .5s;
+}
+.cards:hover .image{
+    opacity: .2;
+}
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active{
+    background-color: #fd8c4e;
+    color: white;
+    border: 0;
+    border-radius: 20px;
+    padding: 5px 20px;
+    margin: 15px;
+    text-transform: uppercase;
+}
+.nav-tabs .nav-link{
+    color: black;
+    border: 0;
+    padding: 5px 20px;
+    margin: 15px;
+    transition: background-color .8s;
+    text-transform: uppercase;
+}
+.nav-tabs .nav-link:hover{
+    background-color: #fd8c4e;
+    color: white;
+    border-radius: 20px;
+    border: 0;
+}
+.sec6-subTitle{
+    color: #fd8c4e;
+    text-align: start;
+    margin-top: 7px;
+}
+.sec6-title{
+    transition: all .3s;
+}
+.sec6-title:hover{
+    color: #fd8c4e;
+}
+
+.sec7{
+    padding-top: 18%;
+    padding-bottom: 10%;
+}
+.sec7-icon{
+    font-size: 60px;
+    color: #fd8c4e;
+}
+.indicators-sec7{
+    margin-top: 60px;
+    margin-top: 60px;
+    padding: 0;
+    align-items: start;
+    justify-content: start;
+}
+.sec7 .indicators-sec7 button{
+    background-color: #fd8c4e;
+    width: 10px;
+    height: 10px;
+    border-radius: 89%;
+}
+.sec9{
+    background-color: #eae5dd;
+}
+.sec9-row{
+    padding: 9%;
+}
+.lastsec-list{
+    list-style: none;
+    text-transform: capitalize;
+    color:#9b9b9b ;
+    padding: 5px 0;
+}
+.lastsec-links{
+    padding: 3px;
+}
+.lastsec-links a{
+    color:#9b9b9b ;
+}
+.lastsec-links a:hover{
+    color: #fd8c4e;
+}
+.lastsec-form{
+    border: .9px solid #9b9b9b;
+    border-radius: 25px;
+    text-align: center;
+    padding: 10px;
+}
+.lastsec-input{
+    border: 0;
+    background-color: transparent;
+}
+.lastsec-input:hover{
+    border: 0;
+}
+.lastsec-form .email-icon{
+    color: white;
+    font-size: 21px;
+    text-align: center;
+
+    padding: 0px 2px 0px;
+}
+.lastsec-form a{
+    padding: 8px;
+    border-radius: 31px;
+    font-size: 21px;
+    background-color:#fd8c4e ;
+}
+footer{
+    border-top: 1px solid #9b9b9b;
+    padding: 40px 0px 0px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: #9b9b9b;
+}
+
+
+.sec1-carsoulText{
+    text-align: start;
+    align-items: center;
+    justify-content: center;
+    /* bottom: 25%; */
+    /* padding-left: 100px;
+    padding-right: 100px; */
+    margin-bottom: 15%;
+
+}
